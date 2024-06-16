@@ -1,12 +1,12 @@
-# TypingTextGenerator
+# TypeTextGenerator
 
-Typing Text Generator is an npm package designed to help developers generate random numbers,words,alphabets,special characters for various purposes. It provides a convenient set of functions to generate typing text with customizable options.
+Type Text Generator is an npm package designed to help developers generate random numbers,words,alphabets,special characters for various purposes. It provides a convenient set of functions to generate typing text with customizable options.
 
 ## Installation
 
-To install Typing Text Generator, simply run:
+To install Typing Texts Generator, simply run:
 
-npm i typingtextgenerator
+npm i typetextgenerator
 
 ## Usage
 

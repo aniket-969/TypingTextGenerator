@@ -1,5 +1,5 @@
 {
-  "name": "typingtextgenerator",
+  "name": "typetextgenerator",
   "version": "1.0.0",
   "type": "module",
   "description": "an npm package to generate texts,numbers,characters with added functionalities and choices",
